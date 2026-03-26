@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47f5625e-fe61-453a-b78a-d9885d2091c9" name="Changes" comment="Initial commit - recursion permutations" />
+    <list default="true" id="47f5625e-fe61-453a-b78a-d9885d2091c9" name="Changes" comment="Initial commit - recursion permutations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,105 +46,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Amstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_List.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_merge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Balance_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BalancedBrackets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Binarryy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bit_Manipulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarShop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Climbing_stairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Frequency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Func_Ques.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Heart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Input.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertAtAny.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertAtBottom.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LL_Ques.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LL_Ques2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LL_collectionFramework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Learning.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Learning_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Learning_classes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Longest_pallindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops_ques.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge_sortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Missing_Inarray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Missing_array3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Neon_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumBit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Odd_even.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pallindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Perfect_num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Quess_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueWithArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueWithCircularArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueWithFramework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueWithLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueWithStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rotating_2DM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInsertPosition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackInbuild.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Builder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumProg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch_case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Table_byLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.anangrams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrangingCoins.executor&quot;: &quot;Run&quot;,
-    &quot;Application.array_linearSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_EO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.length_Ofstrings_inArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.missing_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.missing_array2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pallindrome_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ques.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rec_advance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rec_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rec_intermediate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.remove_LL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.remove_dublicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.remove_repeat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse_array2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rotate_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.second_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shaurya.didi_ques.temp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.smallestNO_AllSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sqrt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.temp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.temp2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.temps.temp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.total_EO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.trail.executor&quot;: &quot;Run&quot;,
-    &quot;Application.two_sums.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Amstrong.executor": "Run",
+    "Application.Array_List.executor": "Run",
+    "Application.Array_merge.executor": "Run",
+    "Application.Balance_2.executor": "Run",
+    "Application.BalancedBrackets.executor": "Run",
+    "Application.Binarryy.executor": "Run",
+    "Application.Bit_Manipulation.executor": "Run",
+    "Application.CarShop.executor": "Run",
+    "Application.Climbing_stairs.executor": "Run",
+    "Application.FirstClass.executor": "Run",
+    "Application.Frequency.executor": "Run",
+    "Application.Func_Ques.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.Heart.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.InsertAtAny.executor": "Run",
+    "Application.InsertAtBottom.executor": "Run",
+    "Application.LL_Ques.executor": "Run",
+    "Application.LL_Ques2.executor": "Run",
+    "Application.LL_collectionFramework.executor": "Run",
+    "Application.Learning.executor": "Run",
+    "Application.Learning_String.executor": "Run",
+    "Application.Learning_classes.executor": "Run",
+    "Application.Longest_pallindrome.executor": "Run",
+    "Application.Loops_ques.executor": "Run",
+    "Application.Merge_sortedArray.executor": "Run",
+    "Application.Missing_Inarray.executor": "Run",
+    "Application.Missing_array3.executor": "Run",
+    "Application.Neon_Num.executor": "Run",
+    "Application.NumBit.executor": "Run",
+    "Application.Odd_even.executor": "Run",
+    "Application.Pallindrome.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.Pattern_1.executor": "Run",
+    "Application.Pattern_2.executor": "Run",
+    "Application.Perfect_num.executor": "Run",
+    "Application.Quess_1.executor": "Run",
+    "Application.QueueWithArray.executor": "Run",
+    "Application.QueueWithCircularArray.executor": "Run",
+    "Application.QueueWithFramework.executor": "Run",
+    "Application.QueueWithLinkedList.executor": "Run",
+    "Application.QueueWithStack.executor": "Run",
+    "Application.ReverseStack.executor": "Run",
+    "Application.Rotating_2DM.executor": "Run",
+    "Application.SearchInsertPosition.executor": "Run",
+    "Application.StackArray.executor": "Run",
+    "Application.StackInbuild.executor": "Run",
+    "Application.StackLinkedList.executor": "Run",
+    "Application.String_Builder.executor": "Run",
+    "Application.SumProg.executor": "Run",
+    "Application.Switch_case.executor": "Run",
+    "Application.Table_byLoops.executor": "Run",
+    "Application.anangrams.executor": "Run",
+    "Application.arrangingCoins.executor": "Run",
+    "Application.array_linearSearch.executor": "Run",
+    "Application.count_EO.executor": "Run",
+    "Application.if_else.executor": "Run",
+    "Application.length_Ofstrings_inArray.executor": "Run",
+    "Application.missing_array.executor": "Run",
+    "Application.missing_array2.executor": "Run",
+    "Application.pallindrome_Number.executor": "Run",
+    "Application.ques.executor": "Run",
+    "Application.rec_advance.executor": "Run",
+    "Application.rec_basics.executor": "Run",
+    "Application.rec_intermediate.executor": "Run",
+    "Application.remove_LL.executor": "Run",
+    "Application.remove_dublicates.executor": "Run",
+    "Application.remove_repeat.executor": "Run",
+    "Application.reverse_array.executor": "Run",
+    "Application.reverse_array2.executor": "Run",
+    "Application.rotate_array.executor": "Run",
+    "Application.second_largest.executor": "Run",
+    "Application.shaurya.didi_ques.temp.executor": "Run",
+    "Application.smallestNO_AllSet.executor": "Run",
+    "Application.sqrt.executor": "Run",
+    "Application.temp.executor": "Run",
+    "Application.temp2.executor": "Run",
+    "Application.temps.temp.executor": "Run",
+    "Application.total_EO.executor": "Run",
+    "Application.trail.executor": "Run",
+    "Application.two_sums.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.FirstClass">
+}]]></component>
+  <component name="RunManager">
     <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shaurya.FirstClass" />
       <module name="Java_programs" />
@@ -253,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774522596396</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit - recursion permutations">
+      <option name="closed" value="true" />
+      <created>1774523452967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774523452967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
