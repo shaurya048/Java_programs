@@ -1,4 +1,4 @@
-package Trie;
+package treee;
 
 public class preOrder {
     static class Node{

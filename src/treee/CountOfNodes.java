@@ -1,4 +1,4 @@
-package Trie;
+package treee;
 
 class Node{
     int val;

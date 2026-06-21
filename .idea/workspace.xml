@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f5625e-fe61-453a-b78a-d9885d2091c9" name="Changes" comment="Initial commit - recursion permutations">
-      <change afterPath="$PROJECT_DIR$/src/Revision/LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treee/lvlOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Revision/buildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Revision/buildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trie/CountOfNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treee/CountOfNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trie/inOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treee/inOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trie/postOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treee/postOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trie/preOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treee/preOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +51,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.LL.executor": "Run",
+    "Application.buildTree.executor": "Run",
+    "Application.lvlOrder.executor": "Run",
     "Application.recursion.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
